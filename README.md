@@ -5,19 +5,19 @@
 
 
 <h2><u>Brief About Me</u></h2>
-<p>✅ I have developed 3+ live applications for some of the giants like ICICI Prudential Life Insurance.</p>
-<p>✅ I have 3.5 yers of experience in Development & Project Lead.</p>
-<p>✅ Some of my mojor work tech stacks are HTML, JavaScript, CSS(Less/Sass), TailwindCSS, Bootstrap, JQuery, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB and SQL.</p>
-<p>✅ To Download My Resume <a href="https://drive.google.com/file/d/1h1ZwMyY3k0spIu53T7ifFahrmf-0wpZE/view?usp=drive_link">Click Here</a>.</p>
-<p>✅ What I am aiming is to get a role where I can work or build a real-life products by utilizing my development skills.</p>
+<p>✅ I have developed 3+ live applications for major companies, including ICICI Prudential Life Insurance.</p>
+<p>✅ I have 3.5 years of experience in Development and Project Leadership.</p>
+<p>✅ My primary tech stack includes HTML, JavaScript, CSS (Less/Sass), Tailwind CSS, Bootstrap, jQuery, ReactJS, Next.js, NodeJS, Express.js, MongoDB, and SQL.</p>
+<p>✅ To download my resume, <a href="https://drive.google.com/file/d/1h1ZwMyY3k0spIu53T7ifFahrmf-0wpZE/view?usp=drive_link">click here</a>.</p>
+<p>✅ I am seeking a role where I can contribute my development skills to building real-world products.</p>
 
 
 <h2>What you can expect from me?</h2>
-<p>⚡ Develop highly interactive Front end / User Interfaces for your Web applications.</p>
-<p>⚡ Web App Optimizations (including UI, UX, Network Calls, Responsiveness) using Modern Techniques.</p>
-<p>⚡ Integration of third party services such as AppWrite / Stripe / MongoDB / Firebase/ Clerk </p>
-<p>⚡ Developer Robust Backend using NodeJS Implementing - Rate Limiting, Caching, API Keys, Middleware, Query Sanitization etc...</p>
-<p>⚡ Implementing CI/CD Pipeline and Create Dockerized applications production ready.</p>
+<p>⚡ Develop highly interactive front-end/user interfaces for your web applications.</p>
+<p>⚡ Optimize web applications (including UI, UX, network calls, and responsiveness) using modern techniques.</p>
+<p>⚡ Integrate third-party services such as AppWrite, Stripe, MongoDB, Firebase, and Clerk.</p>
+<p>⚡ Develop robust back ends using Node.js, implementing rate limiting, caching, API keys, middleware, query sanitization, etc.</p>
+<p>⚡ Implement CI/CD pipelines and create production-ready, Dockerized applications.</p>
 
 
 
