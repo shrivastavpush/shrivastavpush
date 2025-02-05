@@ -103,10 +103,6 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-        <img style=" padding: 10px; width: 80px; height: 80px; background-color: #aee6e4; border-radius: 10px; "
-            src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-    </a>
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
         <img style=" padding: 10px; width: 80px; height: 80px; background-color: #aee6e4; border-radius: 10px; "
             src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
@@ -136,10 +132,6 @@
         <img style=" padding: 10px; width: 80px; height: 80px; background-color: #aee6e4; border-radius: 10px; "
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
             alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-        <img style=" padding: 10px; width: 80px; height: 80px; background-color: #aee6e4; border-radius: 10px; "
-            src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img style=" padding: 10px; width: 80px; height: 80px; background-color: #aee6e4; border-radius: 10px; "
