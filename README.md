@@ -3,10 +3,10 @@
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400px" align="center"/>
 
 <h2><u>Brief About Me</u></h2>
-<p>✅ I have developed 3+ live applications for some of the giants like ICICI Prudential Life Insurance</p>
+<p>✅ I have developed 3+ live applications for some of the giants like ICICI Prudential Life Insurance.</p>
 <p>✅ I have 3.5 yers of experience in Development & Project Lead.</p>
-<p>✅ Some of my mojor work tech stacks are HTML, JavaScript, CSS(Less/Sass), TailwindCSS, Bootstrap, JQuery, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB and SQL</p>
-<p>✅ To Download My Resume <a href="https://drive.google.com/file/d/1h1ZwMyY3k0spIu53T7ifFahrmf-0wpZE/view?usp=drive_link">Click Here</a> </p>
+<p>✅ Some of my mojor work tech stacks are HTML, JavaScript, CSS(Less/Sass), TailwindCSS, Bootstrap, JQuery, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB and SQL.</p>
+<p>✅ To Download My Resume <a href="https://drive.google.com/file/d/1h1ZwMyY3k0spIu53T7ifFahrmf-0wpZE/view?usp=drive_link">Click Here</a>.</p>
 <p>✅ What I am aiming is to get a role where I can work or build a real-life products by utilizing my development skills.</p>
 
 <h2>What you can expect from me?</h2>
