@@ -1,6 +1,8 @@
 <h1 align="left">Hello, I'm Pushpendra Shrivastav</h1>
 <h3 align="left">A passionate Full Stack Developer from India</h3>
-<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400px" align="center"/>
+
+<img src="https://c.tenor.com/2fXbn6Xtt0UAAAAd/tenor.gif" width="400px" align="center"/>
+
 
 <h2><u>Brief About Me</u></h2>
 <p>✅ I have developed 3+ live applications for some of the giants like ICICI Prudential Life Insurance.</p>
@@ -9,6 +11,7 @@
 <p>✅ To Download My Resume <a href="https://drive.google.com/file/d/1h1ZwMyY3k0spIu53T7ifFahrmf-0wpZE/view?usp=drive_link">Click Here</a>.</p>
 <p>✅ What I am aiming is to get a role where I can work or build a real-life products by utilizing my development skills.</p>
 
+
 <h2>What you can expect from me?</h2>
 <p>⚡ Develop highly interactive Front end / User Interfaces for your Web applications.</p>
 <p>⚡ Web App Optimizations (including UI, UX, Network Calls, Responsiveness) using Modern Techniques.</p>
@@ -16,7 +19,11 @@
 <p>⚡ Developer Robust Backend using NodeJS Implementing - Rate Limiting, Caching, API Keys, Middleware, Query Sanitization etc...</p>
 <p>⚡ Implementing CI/CD Pipeline and Create Dockerized applications production ready.</p>
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshansharmacodes" alt="roshansharmacodes" /></a> </p>
+
+
 
 - 🔭 I’m currently working with [ICICI Prudential](https://www.iciciprulife.com/)
 
@@ -28,10 +35,12 @@
 
 - 📫 How to reach me **shrivastavsumit15@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pushpendra-shrivastav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshancodes/" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
@@ -161,9 +170,5 @@
         <img style=" padding: 10px; width: 80px; height: 80px; background-color: #aee6e4; border-radius: 10px; "
             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
             alt="webpack" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img style=" padding: 10px; width: 80px; height: 80px; background-color: #aee6e4; border-radius: 10px; "
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
     </a>
 </p>
