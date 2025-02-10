@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Pushpendra Shrivastav</h1>
+<h1 align="left">👋 Hello, I'm <a href="https://www.linkedin.com/in/pushpendra-shrivastav/" target="_blank" style="color:#0077B5;">Pushpendra Shrivastav</a> 👋</h1>
 <h3 align="left">A passionate Full Stack Developer from India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png"></h3>
 
 <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAd/tenor.gif" width="400px" align="center"/>
