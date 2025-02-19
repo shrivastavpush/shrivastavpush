@@ -8,14 +8,13 @@
 
 <br><hr>
 
-- 🔭 I’m currently working with [ICICI Prudential](https://www.iciciprulife.com/)
+🔭 I’m currently working with [ICICI Prudential](https://www.iciciprulife.com/)
 
-- 🌱 I’m currently learning **NextJS**
+🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate and work upon **Building SaaS Products**
+👯 I’m looking to collaborate and work upon **Building SaaS Products**
 
-- 📫 Reach out to me **shrivastavsumit15@gmail.com**
-<!-- - 💬 Ask me about **Product Development** -->
+📫 Reach out to me **shrivastavsumit15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +30,7 @@
 
 <h2>What you can expect from me?</h2>
 <p>⚡ Develop highly interactive and user-friendly front-end experiences that enhance user engagement.</p>
-<p>⚡ mprove web application performance across UI, UX, network requests, and responsiveness using cutting-edge techniques.</p>
+<p>⚡ Improve web application performance across UI, UX, network requests, and responsiveness using cutting-edge techniques.</p>
 <p>⚡ Integrate popular services like AppWrite, Stripe, MongoDB, Firebase, and Clerk to extend application functionality.</p>
 <p>⚡ Develop secure and scalable Node.js backends, incorporating best practices such as rate limiting, caching, API keys, middleware, and query sanitization.</p>
 <p>⚡ Streamline deployments with CI/CD and Docker for quicker releases.</p>
