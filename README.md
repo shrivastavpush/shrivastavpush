@@ -36,14 +36,7 @@
 <p>⚡ Develop secure and scalable Node.js backends, incorporating best practices such as rate limiting, caching, API keys, middleware, and query sanitization.</p>
 <p>⚡ Streamline deployments with CI/CD and Docker for quicker releases.</p>
 
-<hr><br>
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shrivastavsumit" alt="shrivastavsumit" />
-    </a>
-</p>
-<br><hr>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -108,10 +101,10 @@
 
 <!-- github trophies -->
 
-<hr><br>
+<br>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shrivastavsumit" alt="shrivastavsumit" />
     </a>
 </p>
-<br><hr>
+<br>
