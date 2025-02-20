@@ -8,13 +8,15 @@
 
 <br><hr>
 
-🔭 I’m currently working with [ICICI Prudential](https://www.iciciprulife.com/)
+👨‍💻 I’m currently working with [ICICI Prudential](https://www.iciciprulife.com/)
 
-🌱 I’m currently learning **NextJS**
+📖 I’m currently learning **NextJS**, **NodeJS**
 
-👯 I’m looking to collaborate and work upon **Building SaaS Products**
+📃 I’m currently making a **Interview Preperation Guide** <a href="https://ivy-nymphea-ace.notion.site/Interview-Questions-Web-Development-196cc45e46258047b900e1923d9b3d41?pvs=74">Check it out</a>
 
-📫 Reach out to me **shrivastavsumit15@gmail.com**
+🤝 I’m looking forward to collaborate and work upon **Building SaaS Products**
+
+📧 Reach out to me **shrivastavsumit15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -103,7 +105,7 @@
 <br>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shrivastavsumit" alt="shrivastavsumit" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shrivastavpush" alt="shrivastavpush" />
     </a>
 </p>
 <br>
