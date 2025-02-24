@@ -86,6 +86,11 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+<p>Deployment Enviroment: </p>
+
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 <p>Always thankful to:</p>
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
@@ -101,6 +106,9 @@
 ![snake gif](https://github.com/shrivastavsumit/shrivastavsumit/blob/output/github-snake-dark.svg)
 
 <!-- github trophies -->
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/shrivastavpush?theme=dark&font=PT%20Sans%20Caption)
 
 <br>
 <p align="left">
