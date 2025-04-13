@@ -1,14 +1,18 @@
 <h1 align="left">👋 Hello there, I'm <a href="https://www.linkedin.com/in/pushpendra-shrivastav/" target="_blank" style="color:#0077B5;">Pushpendra Shrivastav</a> 👋</h1>
 
-<h3 align="left">A passionate Front End Developer from India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png"></h3>
+<h3 align="left">A passionate Full Stack Developer from India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png"></h3>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=shrivastavsumit)
 
-<img src="https://c.tenor.com/2fXbn6Xtt0UAAAAd/tenor.gif" width="400px" align="center"/>
+<img src="https://c.tenor.com/2fXbn6Xtt0UAAAAd/tenor.gif" width="300px" align="center"/>
 
-<br><hr>
+<br>
 
-👨‍💻 I’m currently working with [ICICI Prudential](https://www.iciciprulife.com/)
+![Job Badge](https://img.shields.io/badge/-Open%20to%20Work-brightgreen?style=for-the-badge)
+
+<hr>
+
+👨‍💻 I’m was working with [ICICI Prudential](https://www.iciciprulife.com/)
 
 📖 I’m currently learning **NextJS**, **NodeJS**
 
@@ -16,11 +20,15 @@
 
 🤝 I’m looking forward to collaborate and work upon **Building SaaS Products**
 
-📧 Reach out to me **shrivastavsumit15@gmail.com**
+<h2 align="left">Connect with me:</h2>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pushpendra-shrivastav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshancodes/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pushpendra-shrivastav/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+    <a href="mailto:shrivastavsumit15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 <h2>🚀 Brief About Me</h2>
@@ -28,7 +36,7 @@
 <p>✅ Expertise in a JavaScript tech stack and frameworks: jQuery, React, Next.js and good knowledge over Node.js, Express.js, MongoDB.</p>
 <p>✅ Passionate about building real-world products. Dedicated to staying up-to-date with the latest technologies and best practices in web development. </p>
 <p>✅ Always interested in collaborating on interesting projects. Feel free to reach out!</p>
-<p>✅ For more details please download my <a href="https://drive.google.com/file/d/1h1ZwMyY3k0spIu53T7ifFahrmf-0wpZE/view?usp=drive_link">resume</a>.</p>
+<p>✅ For more details please download my <a href="https://drive.google.com/file/d/1nQ8LRwFVyQ9_UQ6a-YRwNSTNn9FBovLC/view?usp=drive_link">resume</a>.</p>
 
 <h2>What you can expect from me?</h2>
 <p>⚡ Develop highly interactive and user-friendly front-end experiences that enhance user engagement.</p>
@@ -41,7 +49,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p>Well versed in : </p>
+<h4>Well versed in : </h4>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,43 +63,44 @@
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p>Good knowledga of:</p>
+<h4>Good knowledge of:</h4>
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![SASS](https://img.shields.io/badge/SASS-pink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
-
-<p>Currently learning : </p>
+<h4>Currently learning : </h4>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<p>For documentating things: </p>
+<h4>For documentating things: </h4>
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<p>Deployment Enviroment: </p>
+<h4>Deployment Enviroment: </h4>
 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<p>Always thankful to:</p>
+<h4>Always thankful to:</h4>
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
@@ -104,14 +113,20 @@
 <!-- animated snake -->
 
 ![snake gif](https://github.com/shrivastavsumit/shrivastavsumit/blob/output/github-snake-dark.svg)
+<br>
 
-<!-- github trophies -->
-
+<div style="display: flex; align-items: baseline; gap: 20px; flex-wrap: wrap;">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shrivastavpush?theme=dark&font=PT%20Sans%20Caption)
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrivastavpush&" alt="GitHub Streak Stats" />
+</div>
+
+<!-- github trophies -->
+
 <br>
-<p align="left">
+<br>
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shrivastavpush" alt="shrivastavpush" />
     </a>
