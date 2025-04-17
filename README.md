@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hello there, I'm <a href="https://www.linkedin.com/in/pushpendra-shrivastav/" target="_blank" style="color:#0077B5;">Pushpendra Shrivastav</a> 👋</h1>
 
-<h3 align="left">A passionate Full Stack Developer from India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png"></h3>
+<h3 align="left">A passionate Front End Developer from India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png"></h3>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=shrivastavsumit)
 
@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/pushpendra-shrivastav/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-    <a href="mailto:shrivastavsumit15@gmail.com" target="_blank">
+  <a href="mailto:shrivastavsumit15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
