@@ -16,7 +16,8 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Frontend Developer from India 🇮🇳 with **2.5+ years** of experience
+- 👨‍💻 Frontend Developer from India 🇮🇳 with **3+ years** of experience
+- 🏢 Curently working as SDE-UI 1 in **FLIPKART**
 - 🏢 Previously worked at **ICICI Prudential Life Insurance**
 - ⚛️ Passionate about building fast, scalable, and intuitive web apps
 - 💻 Working mainly with **React**, **Next.js**, **Node.js**, **MongoDB**
